@@ -1,0 +1,1 @@
+from.map2uniprot import map_gene_to_uniprot
